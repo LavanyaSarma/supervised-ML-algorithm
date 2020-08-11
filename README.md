@@ -1,2 +1,2 @@
-# supervised-ML-algorithm
+# The Sparks Foundation Intern
 Used Linear regression algorithm
